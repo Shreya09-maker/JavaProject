@@ -10,13 +10,11 @@ This Java program uses exception handling to manage runtime errors gracefully us
 Executes "try start".
 
 Throws exception at 10 / 0.
-
 Skips rest of try.
-
 Handles exception in catch.
-
 Continues and prints "main end".
 <br>
+
 
 🔷 Benefits of Exception Handling:
 
